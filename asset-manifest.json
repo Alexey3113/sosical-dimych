@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/sosical-dimych/static/css/main.7885e86b.chunk.css",
-    "main.js": "/sosical-dimych/static/js/main.f45b62d2.chunk.js",
-    "main.js.map": "/sosical-dimych/static/js/main.f45b62d2.chunk.js.map",
-    "runtime-main.js": "/sosical-dimych/static/js/runtime-main.04f215dd.js",
-    "runtime-main.js.map": "/sosical-dimych/static/js/runtime-main.04f215dd.js.map",
-    "static/js/2.8886fe68.chunk.js": "/sosical-dimych/static/js/2.8886fe68.chunk.js",
-    "static/js/2.8886fe68.chunk.js.map": "/sosical-dimych/static/js/2.8886fe68.chunk.js.map",
+    "main.js": "/sosical-dimych/static/js/main.857c63a5.chunk.js",
+    "main.js.map": "/sosical-dimych/static/js/main.857c63a5.chunk.js.map",
+    "runtime-main.js": "/sosical-dimych/static/js/runtime-main.4d4849dc.js",
+    "runtime-main.js.map": "/sosical-dimych/static/js/runtime-main.4d4849dc.js.map",
+    "static/js/2.3b198c16.chunk.js": "/sosical-dimych/static/js/2.3b198c16.chunk.js",
+    "static/js/2.3b198c16.chunk.js.map": "/sosical-dimych/static/js/2.3b198c16.chunk.js.map",
     "static/css/3.5664d090.chunk.css": "/sosical-dimych/static/css/3.5664d090.chunk.css",
     "static/js/3.3b35596c.chunk.js": "/sosical-dimych/static/js/3.3b35596c.chunk.js",
     "static/js/3.3b35596c.chunk.js.map": "/sosical-dimych/static/js/3.3b35596c.chunk.js.map",
     "static/css/4.0dde8ec7.chunk.css": "/sosical-dimych/static/css/4.0dde8ec7.chunk.css",
-    "static/js/4.79cd59cd.chunk.js": "/sosical-dimych/static/js/4.79cd59cd.chunk.js",
-    "static/js/4.79cd59cd.chunk.js.map": "/sosical-dimych/static/js/4.79cd59cd.chunk.js.map",
+    "static/js/4.d893f0a8.chunk.js": "/sosical-dimych/static/js/4.d893f0a8.chunk.js",
+    "static/js/4.d893f0a8.chunk.js.map": "/sosical-dimych/static/js/4.d893f0a8.chunk.js.map",
     "static/js/5.255126e0.chunk.js": "/sosical-dimych/static/js/5.255126e0.chunk.js",
     "static/js/5.255126e0.chunk.js.map": "/sosical-dimych/static/js/5.255126e0.chunk.js.map",
     "index.html": "/sosical-dimych/index.html",
     "static/css/3.5664d090.chunk.css.map": "/sosical-dimych/static/css/3.5664d090.chunk.css.map",
     "static/css/4.0dde8ec7.chunk.css.map": "/sosical-dimych/static/css/4.0dde8ec7.chunk.css.map",
     "static/css/main.7885e86b.chunk.css.map": "/sosical-dimych/static/css/main.7885e86b.chunk.css.map",
-    "static/js/2.8886fe68.chunk.js.LICENSE.txt": "/sosical-dimych/static/js/2.8886fe68.chunk.js.LICENSE.txt",
+    "static/js/2.3b198c16.chunk.js.LICENSE.txt": "/sosical-dimych/static/js/2.3b198c16.chunk.js.LICENSE.txt",
     "static/media/1.e430e235.png": "/sosical-dimych/static/media/1.e430e235.png",
     "static/media/loading.39ee2642.gif": "/sosical-dimych/static/media/loading.39ee2642.gif",
     "static/media/userphoto.28e44cb7.png": "/sosical-dimych/static/media/userphoto.28e44cb7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.04f215dd.js",
-    "static/js/2.8886fe68.chunk.js",
+    "static/js/runtime-main.4d4849dc.js",
+    "static/js/2.3b198c16.chunk.js",
     "static/css/main.7885e86b.chunk.css",
-    "static/js/main.f45b62d2.chunk.js"
+    "static/js/main.857c63a5.chunk.js"
   ]
 }
